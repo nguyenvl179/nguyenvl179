@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nguyen
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently working as a Software Engineering
